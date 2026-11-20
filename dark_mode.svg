@@ -8,26 +8,23 @@ text, tspan {white-space: pre;}
 <rect width="740px" height="505px" fill="#161b22" rx="15"/>
 <text x="20" y="30" fill="#c9d1d9">
 <tspan x="20" y="30">prasad@bhor ——————————————————————————————————————————————————————</tspan>
-<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">Linux</tspan>
-<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">AI Engineer</tspan>
-<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Agentic AI, LLMs, Computer Vision, Edge AI</tspan>
-<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Navi Mumbai, India</tspan>
-<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">B.Tech E&amp;TC, Mumbai University</tspan>
-<tspan x="20" y="150" class="cc">. </tspan>
-<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Python, C++, SQL</tspan>
-<tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Stack.Agents</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LangGraph, LangChain, Tool Calling</tspan>
-<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">FastAPI, Flask, REST, PostgreSQL</tspan>
-<tspan x="20" y="230" class="cc">. </tspan><tspan class="key">Stack.ML</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, TensorFlow, Keras, scikit-learn</tspan>
-<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Stack.Vision</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">OpenCV, YOLO, RetinaFace, Tracking</tspan>
-<tspan x="20" y="270" class="cc">. </tspan><tspan class="key">Stack.Edge</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Jetson, Radxa ROCK 5C, ROS 2</tspan>
-<tspan x="20" y="290" class="cc">. </tspan><tspan class="key">Stack.Deploy</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Docker, Kubernetes, GitHub Actions, Azure</tspan>
-<tspan x="20" y="310" class="cc">. </tspan>
-<tspan x="20" y="330">- Selected Work ——————————————————————————————————————————————————</tspan>
-<tspan x="20" y="350" class="cc">. </tspan><tspan class="key">AdPilot</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Agentic campaign planner (LangGraph)</tspan>
-<tspan x="20" y="370" class="cc">. </tspan><tspan class="key">TicketAnalyzer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LLM support triage on Kubernetes</tspan>
-<tspan x="20" y="390" class="cc">. </tspan><tspan class="key">TaskTrackerAPI</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI + SQLite REST service</tspan>
-<tspan x="20" y="410" class="cc">. </tspan>
-<tspan x="20" y="430">- Philosophy —————————————————————————————————————————————————————</tspan>
-<tspan x="20" y="450" class="cc">. </tspan><tspan class="key">Quote</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Make it work, make it right, make it fast.</tspan>
-<tspan x="20" y="470" class="cc">. </tspan><tspan class="key">Author</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Kent Beck</tspan>
+<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">AI Engineer</tspan>
+<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Agentic AI, LLMs, Computer Vision, Edge AI</tspan>
+<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Navi Mumbai, India</tspan>9
+<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">B.Tech E&amp;TC, Mumbai University</tspan>
+<tspan x="20" y="130" class="cc">. </tspan>
+<tspan x="20" y="150" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Python, C++, SQL</tspan>
+<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Stack.Agents</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LangGraph, LangChain, Tool Calling</tspan>
+<tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">FastAPI, Flask, REST, PostgreSQL</tspan>
+<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Stack.ML</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, TensorFlow, Keras, scikit-learn</tspan>
+<tspan x="20" y="230" class="cc">. </tspan><tspan class="key">Stack.Vision</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">OpenCV, YOLO, RetinaFace, Tracking</tspan>
+<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Stack.Edge</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Jetson, Radxa ROCK 5C, ROS 2</tspan>
+<tspan x="20" y="270" class="cc">. </tspan><tspan class="key">Stack.Deploy</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Docker, Kubernetes, GitHub Actions, Azure</tspan>
+<tspan x="20" y="290" class="cc">. </tspan>
+<tspan x="20" y="310">- Selected Work ——————————————————————————————————————————————————</tspan>
+<tspan x="20" y="330" class="cc">. </tspan><tspan class="key">TaskTrackerAPI</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI + SQLite REST service</tspan>
+<tspan x="20" y="350" class="cc">. </tspan>
+<tspan x="20" y="370">- Philosophy —————————————————————————————————————————————————————</tspan>
+<tspan x="20" y="390" class="cc">. </tspan><tspan class="key">Quote</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Make it work, make it right, make it fast.</tspan>
+<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Author</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Kent Beck</tspan>
 </text></svg>
