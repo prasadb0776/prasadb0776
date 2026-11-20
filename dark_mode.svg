@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="740px" height="605px" font-size="16px">
+<style>
+@font-face {src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%;}
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="740px" height="605px" fill="#161b22" rx="15"/>
+<text x="20" y="30" fill="#c9d1d9">
+<tspan x="20" y="30">prasad@bhor ——————————————————————————————————————————————————————</tspan>
+<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">Linux</tspan>
+<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">AI Engineer</tspan>
+<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Agentic AI, LLMs, Computer Vision, Edge AI</tspan>
+<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Navi Mumbai, India</tspan>
+<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">B.Tech E&amp;TC, Mumbai University</tspan>
+<tspan x="20" y="150" class="cc">. </tspan>
+<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Python, C++, SQL</tspan>
+<tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Stack.Agents</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LangGraph, LangChain, Tool Calling</tspan>
+<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">FastAPI, Flask, REST, PostgreSQL</tspan>
+<tspan x="20" y="230" class="cc">. </tspan><tspan class="key">Stack.ML</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PyTorch, TensorFlow, Keras, scikit-learn</tspan>
+<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Stack.Vision</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">OpenCV, YOLO, RetinaFace, Tracking</tspan>
+<tspan x="20" y="270" class="cc">. </tspan><tspan class="key">Stack.Edge</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Jetson, Radxa ROCK 5C, ROS 2</tspan>
+<tspan x="20" y="290" class="cc">. </tspan><tspan class="key">Stack.Deploy</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Docker, Kubernetes, GitHub Actions, Azure</tspan>
+<tspan x="20" y="310" class="cc">. </tspan>
+<tspan x="20" y="330">- Selected Work ——————————————————————————————————————————————————</tspan>
+<tspan x="20" y="350" class="cc">. </tspan><tspan class="key">AdPilot</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Agentic campaign planner (LangGraph)</tspan>
+<tspan x="20" y="370" class="cc">. </tspan><tspan class="key">TicketAnalyzer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LLM support triage on Kubernetes</tspan>
+<tspan x="20" y="390" class="cc">. </tspan><tspan class="key">TaskTrackerAPI</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">FastAPI + SQLite REST service</tspan>
+<tspan x="20" y="410" class="cc">. </tspan>
+<tspan x="20" y="430">- Philosophy —————————————————————————————————————————————————————</tspan>
+<tspan x="20" y="450" class="cc">. </tspan><tspan class="key">Quote</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Make it work, make it right, make it fast.</tspan>
+<tspan x="20" y="470" class="cc">. </tspan><tspan class="key">Author</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Kent Beck</tspan>
+<tspan x="20" y="490" class="cc">. </tspan>
+<tspan x="20" y="510">- Contact ————————————————————————————————————————————————————————</tspan>
+<tspan x="20" y="530" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">prasadb2609@gmail.com</tspan>
+<tspan x="20" y="550" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">prasadd26</tspan>
+<tspan x="20" y="570" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">prasadb0776</tspan>
+</text></svg>
