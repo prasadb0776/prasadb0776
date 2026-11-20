@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="740px" height="605px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="740px" height="505px" font-size="16px">
 <style>
 @font-face {src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%;}
 .key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="740px" height="605px" fill="#f6f8fa" rx="15"/>
+<rect width="740px" height="505px" fill="#f6f8fa" rx="15"/>
 <text x="20" y="30" fill="#24292f">
 <tspan x="20" y="30">prasad@bhor ——————————————————————————————————————————————————————</tspan>
 <tspan x="20" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">Linux</tspan>
@@ -30,9 +30,4 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="430">- Philosophy —————————————————————————————————————————————————————</tspan>
 <tspan x="20" y="450" class="cc">. </tspan><tspan class="key">Quote</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Make it work, make it right, make it fast.</tspan>
 <tspan x="20" y="470" class="cc">. </tspan><tspan class="key">Author</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Kent Beck</tspan>
-<tspan x="20" y="490" class="cc">. </tspan>
-<tspan x="20" y="510">- Contact ————————————————————————————————————————————————————————</tspan>
-<tspan x="20" y="530" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">prasadb2609@gmail.com</tspan>
-<tspan x="20" y="550" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">prasadd26</tspan>
-<tspan x="20" y="570" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">prasadb0776</tspan>
 </text></svg>
